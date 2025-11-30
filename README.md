@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rishabh Yadav</h1>
+<h3 align="center">DevOps Enthusiast | Cloud | Automation | CI/CD</h3>
 
-<!--
-**rish-abhyadav/rish-abhyadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+**DevOps Enthusiast passionate about Cloud Computing, Automation, and scalable system deployments.**  
+I enjoy building efficient workflows using CI/CD pipelines, containerization, monitoring tools, and cloud services.  
+Currently learning and implementing real-world DevOps practices through hands-on projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Tools
+
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
+
+### **Programming**
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-red?logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white)
+
+### **Tools & Platforms**
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-F76935?logo=postman&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+- 🔧 **DevOps CI/CD Pipeline (GitHub Actions + Docker + AWS)**  
+- ☁️ **AWS Cloud Deployment Project**  
+- 📦 **Dockerized Web App**  
+- 🐧 **Linux Automation Scripts**  
+
+*(Tell me your project names/links and I will add them.)*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rish-abhyadav&show_icons=true&theme=tokyonight" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rish-abhyadav&layout=compact&theme=tokyonight" height="170" />
+
+</p>
+
+---
+
+## 🔗 Connect With Me
+📌 **LinkedIn:** [Rishabh Yadav](https://www.linkedin.com/in/rishabh-yadav1/)  
+📧 **Email:** *your email here*  
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+
