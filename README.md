@@ -30,6 +30,8 @@ Currently learning and implementing real-world DevOps practices through hands-on
 ### **Tools & Platforms**
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-F76935?logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white)
+
 
 ---
 
