@@ -98,7 +98,7 @@ Currently learning and implementing real-world DevOps practices through hands-on
 ## 🔗 Connect With Me
 📌 **LinkedIn:** [Rishabh Yadav](https://www.linkedin.com/in/rishabh-yadav1/)  
 🐦 **X (Twitter):** [@yad_Rishabh](https://x.com/yad_Rishabh)  
-📧 **Email:** *your email here*
+📧 **Email:** rishabh916141@gmail.com
 
 ---
 
