@@ -33,6 +33,16 @@ Currently learning and implementing real-world DevOps practices through hands-on
 
 ---
 
+## 🧠 Coding Profiles
+
+### 🧩 LeetCode
+[![LeetCode Stats](https://leetcard.jacoblin.cool/CodeForPride?theme=dark&font=Roboto&ext=heatmap)](https://leetcode.com/u/CodeForPride/)
+
+### 💚 GeeksforGeeks
+[![GFG Stats](https://gfgstatscard.vercel.app/api?username=rishabhdevpro&theme=dark)](https://www.geeksforgeeks.org/profile/rishabhdevpro)
+
+---
+
 ## 📌 Featured Projects
 
 🔧 **DevOps CI/CD Pipeline (GitHub Actions + Docker + AWS)**  
@@ -55,10 +65,7 @@ Currently learning and implementing real-world DevOps practices through hands-on
 </p>
 
 ---
-🧠 Coding Profiles
-🧩 LeetCode
 
-💚 GeeksforGeeks
 ## 📊 GitHub Stats
 <p align="center">
   
@@ -86,6 +93,7 @@ Currently learning and implementing real-world DevOps practices through hands-on
 
 ## 🔗 Connect With Me
 📌 **LinkedIn:** [Rishabh Yadav](https://www.linkedin.com/in/rishabh-yadav1/)  
+🐦 **X (Twitter):** [@yad_Rishabh](https://x.com/yad_Rishabh)  
 📧 **Email:** *your email here*
 
 ---
