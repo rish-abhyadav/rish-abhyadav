@@ -39,7 +39,8 @@ Currently learning and implementing real-world DevOps practices through hands-on
 ![LeetCode Stats](https://leetcard.jacoblin.cool/CodeForPride?theme=dark&font=Roboto&ext=heatmap)
 
 ### 💚 GeeksforGeeks
-![GFG Stats](https://gfgstatscard.vercel.app/api?username=rishabhdevpro&theme=dark)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rish-abhyadav&show_icons=true&theme=tokyonight" />
+
 
 
 
