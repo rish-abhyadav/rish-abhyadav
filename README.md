@@ -62,8 +62,9 @@ Currently learning and implementing real-world DevOps practices through hands-on
 
 ## ✨ Fun Animation
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanBoc2o4cTVib3lpYTE0dGZ4dTE1MDMzNHRpYjl0dzh6emhweHJpNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mCRJDo24UvJMA/giphy.gif" width="350" />
 </p>
+
 
 
 ---
