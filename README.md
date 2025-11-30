@@ -34,19 +34,31 @@ Currently learning and implementing real-world DevOps practices through hands-on
 ---
 
 ## 📌 Featured Projects
-- 🔧 **DevOps CI/CD Pipeline (GitHub Actions + Docker + AWS)**  
-- ☁️ **AWS Cloud Deployment Project**  
-- 📦 **Dockerized Web App**  
-- 🐧 **Linux Automation Scripts**  
 
-*(Tell me your project names/links and I will add them.)*
+🔧 **DevOps CI/CD Pipeline (GitHub Actions + Docker + AWS)**  
+👉 *Add your repo link here*
+
+☁️ **AWS Cloud Deployment Project**  
+👉 *Add your repo link here*
+
+📦 **Dockerized Web App**  
+👉 *Add your repo link here*
+
+🐧 **Linux Automation Scripts**  
+👉 *Add your repo link here*
+
+---
+
+## ✨ Fun Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line-black.gif">
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-
+  
 <img src="https://github-readme-stats.vercel.app/api?username=rish-abhyadav&show_icons=true&theme=tokyonight" height="170" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rish-abhyadav&layout=compact&theme=tokyonight" height="170" />
@@ -55,9 +67,23 @@ Currently learning and implementing real-world DevOps practices through hands-on
 
 ---
 
+## 🔥 GitHub Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rish-abhyadav&theme=tokyonight" height="180">
+</p>
+
+---
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rish-abhyadav&theme=tokyo-night" />
+</p>
+
+---
+
 ## 🔗 Connect With Me
 📌 **LinkedIn:** [Rishabh Yadav](https://www.linkedin.com/in/rishabh-yadav1/)  
-📧 **Email:** *your email here*  
+📧 **Email:** *your email here*
 
 ---
 
