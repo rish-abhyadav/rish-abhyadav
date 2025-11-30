@@ -70,7 +70,8 @@ Currently learning and implementing real-world DevOps practices through hands-on
 ---
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=rish-abhyadav&show_icons=true&theme=tokyonight" height="170" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rish-abhyadav&show_icons=true&theme=tokyonight" />
+
 
 
 ---
