@@ -55,7 +55,10 @@ Currently learning and implementing real-world DevOps practices through hands-on
 </p>
 
 ---
+🧠 Coding Profiles
+🧩 LeetCode
 
+💚 GeeksforGeeks
 ## 📊 GitHub Stats
 <p align="center">
   
