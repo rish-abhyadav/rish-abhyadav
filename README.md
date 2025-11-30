@@ -34,14 +34,12 @@ Currently learning and implementing real-world DevOps practices through hands-on
 ---
 
 ## 🧠 Coding Profiles
-
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/CodeForPride?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/CodeForPride?theme=dark&font=Roboto&ext=heatmap" height="300" />
+  <br><br>
+  <img src="https://gfgstatscard.vercel.app/api?username=rishabhdevpro&theme=dark" height="300" />
 </p>
 
-<p align="center">
-  <img src="https://gfgstatscard.vercel.app/api?username=rishabhdevpro&theme=dark" alt="GFG Stats" />
-</p>
 
 
 ## 📌 Featured Projects
