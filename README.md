@@ -62,8 +62,9 @@ Currently learning and implementing real-world DevOps practices through hands-on
 
 ## ✨ Fun Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line-black.gif">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
+
 
 ---
 
